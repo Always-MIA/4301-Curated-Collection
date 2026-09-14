@@ -75,4 +75,4 @@ Working as a flight attendant involves much more than serving passengers and fol
 
 ---
 [Return to Home](content/index.md) 
-[about](about.md) 
+[About](about.md) 

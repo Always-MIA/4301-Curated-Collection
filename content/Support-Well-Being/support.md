@@ -77,4 +77,4 @@ Understanding aviation-related mental-health challenges is only part of the conv
 
 ---
 [Return to Home](content/index.md) 
-[about](about.md) 
+[About](about.md) 
