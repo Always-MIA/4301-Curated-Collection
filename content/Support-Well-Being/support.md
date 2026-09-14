@@ -76,5 +76,5 @@ Understanding aviation-related mental-health challenges is only part of the conv
 [Learn More](https://www.faa.gov/pilots/training/airman_education/physiologyvideos)
 
 ---
-[Return to Home](content/index.md) 
+[Return to Home](content/index.md)   
 [About](about.md) 

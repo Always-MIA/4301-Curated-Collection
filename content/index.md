@@ -34,4 +34,4 @@ Highlights peer support, employee assistance programs, critical incident respons
 >**This collection is intended as an informational resource and is not a substitute for professional mental-health care.**
 
 ---
-[**About**](about.md) 
+[About](about.md)   
