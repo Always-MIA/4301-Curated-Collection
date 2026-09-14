@@ -74,5 +74,5 @@ Flight attendants can encounter situations that extend far beyond ordinary workp
 [Learn More](https://pubmed.ncbi.nlm.nih.gov/7661839/)
 
 ---
-[Return to Home](Home) 
+[Return to Home](content/index.md) 
 [About](About) 

@@ -42,4 +42,4 @@ You can browse the collection by category or explore individual sources based on
 I hope this collection can serve as both an informative resource and a starting point for anyone who wants to learn more about the relationship between aviation work and mental health.
 
 ---
-[Return to Home](Home) 
+[Return to Home](content/index.md) 
