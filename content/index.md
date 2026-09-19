@@ -14,9 +14,14 @@ I chose this topic because I am not approaching aviation mental health solely as
 
 My own experiences have shown me how factors such as scheduling, fatigue, workplace relationships, passenger interactions, base location, and the overall work environment can affect quality of life. These experiences are what led me to look more closely at the research and resources surrounding mental health in aviation and to create a collection that could be useful to other flight attendants and aviation professionals.
 
-### Explore the Collection
+### Who is this Collection for?  
 
-The collection is organized into four main areas:
+[**Audience Profile**](audience)  
+My collection is primarily for flight attendants and people who are interested in learning more about the mental health and well-being challenges that can come with working in aviation. This includes current and future flight attendants who may be curious about issues such as occupational stress, burnout, fatigue, sleep disruption, trauma, and mental-health support. It can also be useful for people outside of the industry who may only see the job from the passenger's perspective and think being a flight attendant is mainly about serving drinks, snacks, and helping passengers during a flight. I want the collection to give those people a better understanding of the work environment and some of the challenges that are not always visible to passengers.
+
+Current flight attendants may already have firsthand experience with some of these challenges, but they may not know about all of the research or resources available to them. They may use the collection to learn something new about how the job can affect mental health or discover support resources they were not aware of. People who are considering becoming flight attendants can also use it to get a more realistic idea of the less visible parts of the job. This collection is meant for anyone who wants to better understand the mental-health side of aviation, whether they are experiencing these challenges themselves, preparing for the career, or simply curious about what happens behind the scenes.
+
+### Explore the Collection  
 
 [**Occupational Stress & Work Environment**](stress)
 Explores workplace stressors such as workload, scheduling, passenger interactions, workplace relationships, and work-life balance.
@@ -34,4 +39,4 @@ Highlights peer support, employee assistance programs, critical incident respons
 >**This collection is intended as an informational resource and is not a substitute for professional mental-health care.**
 
 ---
-[About](content/about.md)  
+[About](about)  

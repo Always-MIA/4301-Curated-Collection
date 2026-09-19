@@ -74,5 +74,5 @@ Working as a flight attendant involves much more than serving passengers and fol
 [Learn More](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5221-3)
 
 ---
-[Return to Home](content/index.md)   
-[About](content/about.md)  
+[Return to Home](index)   
+[About](about)  

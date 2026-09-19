@@ -31,6 +31,7 @@ Each source includes an annotation explaining what it covers, why it is relevant
 
 ## Who This Is For
 
+[**Audience Profile**](audience)   
 This collection is intended for flight attendants, aviation professionals, aviation students, researchers, and anyone interested in understanding the mental-health challenges connected to working in aviation.
 
 My goal is not to suggest that every flight attendant will have the same experience. Instead, this collection provides research and resources that can help readers better understand the occupational factors that may affect mental health and well-being.
@@ -42,4 +43,4 @@ You can browse the collection by category or explore individual sources based on
 I hope this collection can serve as both an informative resource and a starting point for anyone who wants to learn more about the relationship between aviation work and mental health.
 
 ---
-[Return to Home](content/index.md) 
+[Return to Home](index)    

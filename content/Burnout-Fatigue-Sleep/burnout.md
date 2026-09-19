@@ -74,5 +74,5 @@ Fatigue and sleep disruption are some of the most recognizable challenges of air
 [Learn More](https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/2010s/2011/201116)
 
 ---
-[Return to Home](content/index.md)   
-[About](content/about.md)  
+[Return to Home](index)   
+[About](about)  
