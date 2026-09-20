@@ -32,7 +32,7 @@ Focuses on burnout, irregular schedules, fatigue, insomnia, sleep disruption, an
 [**Psychological Health & Trauma**](trauma)
 Examines psychological distress, mental health concerns, traumatic events, and the emotional effects of working in aviation.
 
-[**Support & Well-Being**](support)
+[**Support & Well-Being**](support) 
 Highlights peer support, employee assistance programs, critical incident response, coping strategies, and other resources designed to support aviation professionals.
 
 
