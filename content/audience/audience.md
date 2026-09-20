@@ -1,3 +1,6 @@
+---
+audience:
+---
 # Audience Profile
 
 ## Who Is This Collection For?

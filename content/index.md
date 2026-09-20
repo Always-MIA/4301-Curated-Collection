@@ -1,5 +1,5 @@
 ---
-Home:
+index:
 ---
 # Mental Health & Well-Being in Aviation
 ### Understanding the people behind the uniform

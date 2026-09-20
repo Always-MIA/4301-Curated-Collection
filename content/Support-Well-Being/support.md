@@ -1,5 +1,5 @@
 ---
-title: A third example doc inside a folder
+support:
 ---
 # Support & Well-Being
 
